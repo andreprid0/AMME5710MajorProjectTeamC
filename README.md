@@ -1,4 +1,6 @@
-Classic computer vision pipeline to find a plate, split characters, and predict them with a cached model.
+License Plate Recognition System!
+
+Pipeline to find a plate, split characters, and predict them with a cached model.
 Main scripts live in the repo root. Training code and synthetic data are in subfolders.
 
 What it will do: 
